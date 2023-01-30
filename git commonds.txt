@@ -1,0 +1,9 @@
+
+git init
+
+
+git remote add origin url-of-remoterepositiry
+git push origin main
+
+git push origin --delete <bname> (To delete remote branch from git)
+git clone url-on 30JAN23
